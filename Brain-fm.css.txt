@@ -1,0 +1,3 @@
+. scetion-1 {
+    background-color: purple;
+}
